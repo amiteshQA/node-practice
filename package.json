@@ -1,0 +1,24 @@
+{
+  "name": "Nodejs-practice",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node applicaton.js"
+  },
+  "keywords": [
+    "awesome",
+    "node js",
+    "session"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.15"
+  },
+  "devDependencies": {
+    "body-parser": "^1.19.0"
+  },
+  "description": ""
+}
